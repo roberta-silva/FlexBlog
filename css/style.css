@@ -326,3 +326,8 @@ img {
   cursor: pointer;
   padding: 15px 10px;
 }
+@media (max-width: 600px) {
+  .newsletter-form button {
+    font-size: 1.5rem;
+  }
+}
