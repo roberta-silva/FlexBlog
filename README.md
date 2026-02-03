@@ -1,21 +1,26 @@
-# FlexBlog
-Este projeto foi desenvolvido como parte do curso **CSS Flexbox**, que ensina como criar layouts responsivos utilizando exclusivamente as propriedades do Flexbox.
+# FlexBlog ✨
+Projeto desenvolvido como parte do curso **CSS Flexbox**, com foco na criação de layouts responsivos utilizando exclusivamente as propriedades do Flexbox.  
+O FlexBlog tem como objetivo consolidar conceitos fundamentais de layout e organização visual em CSS.
 
-👉Você pode ver o resultado final clicando [aqui](https://roberta-silva.github.io/FlexBlog/).
+> Status do projeto: Concluído ✔️
 
-## 💻 O Projeto
+**Acesse o projeto:**  
+🔗 https://roberta-silva.github.io/FlexBlog/
 
-O projeto foi construído para colocar em prática todo o conhecimento aprendido ao longo do curso. Nele, foram utilizados os principais recursos do Flexbox, como:
+## Funcionalidades
+- Layout responsivo adaptado a diferentes tamanhos de tela
+- Estrutura de blog com organização visual consistente
+- Feedback visual em elementos interativos
 
-- Alinhamento e distribuição de elementos
-- Containers flexíveis
-- Adaptação do layout a diferentes tamanhos de tela
+## Objetivos técnicos
+- Aplicação prática das propriedades do CSS Flexbox
+- Construção de layouts responsivos sem uso de frameworks
+- Organização estrutural do HTML
+- Implementação de efeitos de interação com CSS (hover)
 
-## 📁 Tecnologias Utilizadas
-
-- HTML5  
+## Tecnologias
+- HTML5
 - CSS3 (com foco em Flexbox)
 
-## 📱 Layout Responsivo
-
-Todo o layout se adapta automaticamente a diferentes tamanhos de dispositivos, como celulares, tablets e desktops, utilizando apenas Flexbox.
+## 👀 Preview
+<img src="./preview.png" alt="Preview da aplicação FlexBlog" width="600">
