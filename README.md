@@ -4,7 +4,7 @@ O FlexBlog tem como objetivo consolidar conceitos fundamentais de layout e organ
 
 > Status do projeto: Concluído ✔️
 
-**Acesse o projeto:**  
+## Acesse o projeto
 🔗 https://roberta-silva.github.io/FlexBlog/
 
 ## Funcionalidades
